@@ -13,3 +13,9 @@ public class Queen extends Piece{
         }
     }
 }
+
+/*She's a Killer Queen
+Gunpowder, gelatine
+Dynamite with a laser beam
+Guaranteed to blow your mind
+Anytime*/
